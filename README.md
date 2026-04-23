@@ -3,7 +3,7 @@
 # 🚀 SPAS: Scientific Papers Agents Suite
 ### From Text to Triumph: An Autonomous Multi-Agent Pipeline for Research Communication
 
-**A Submission for the [Agentic-thon](https://agenticthon.com/) Hackathon**
+**A Submission for the [Agentic-thon](https://Agenticthon.com/) Hacka-thon**
 <br>
 by **Mohammad Karim Alzoubi** & **Osama Shakaki**
 
@@ -136,7 +136,7 @@ Transforms a dense research paper into a lively, conversational audio podcast.
 > [!IMPORTANT]
 > **SPAS (Scientific Papers Agents Suite)** is a private, proprietary software suite and the exclusive intellectual property of **Mohammad Karim Alzoubi** and **Osama Shakaki**.
 
-This repository is a dedicated submission for the **Agenticthon Hackathon**. Access is strictly limited to authorized judges and evaluators. 
+This repository is a dedicated submission for the **Agentic-thon Hacka-thon**. Access is strictly limited to authorized judges and evaluators. 
 
 *   **Non-Open Source:** This project is **NOT** open-source. All rights are reserved by the authors.
 *   **Usage Restriction:** Unauthorized cloning, copying, distribution, or execution of any part of this suite for any reason (academic, commercial, or personal) is strictly prohibited.
@@ -145,7 +145,7 @@ This repository is a dedicated submission for the **Agenticthon Hackathon**. Acc
 
 ---
 
-## 💡 Our Vision for Agenticthon
+## 💡 Our Vision for Agentic-thon
 SPAS is a statement about the future of agentic AI. We believe autonomous agents should **amplify human creativity**. By automating the friction-filled process of research communication, we empower thinkers to focus on their next big discovery.
 
 ---
