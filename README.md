@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🚀 SPAS: Scientific Papers Agents Suite
+# 🚀 MONJEZ: Scientific Papers Agents Suite
 ### From Text to Triumph: An Autonomous Multi-Agent Pipeline for Research Communication
 
-**A Submission for the [Agentic-thon](https://Agenticthon.com/) Hacka-thon**
+**A Submission for the[Agentic-thon](https://Agenticthon.com/) Hacka-thon**
 <br>
 by **Mohammad Karim Alzoubi** & **Osama Shakaki**
 
@@ -14,7 +14,7 @@ by **Mohammad Karim Alzoubi** & **Osama Shakaki**
 ## 🎯 Our Mission
 Scientific breakthroughs are often trapped within the dense, static confines of academic papers. The process of communicating research—translating complex ideas into code, posters, presentations, videos, and discussions—is a manual, time-consuming effort.
 
-**SPAS is our answer.** It is an autonomous, multi-agent ecosystem that orchestrates a team of specialized AI agents to transform any scientific paper into a complete suite of communication assets. With a single command, SPAS converts static text into five dynamic formats:
+**MONJEZ is our answer.** It is an autonomous, multi-agent ecosystem that orchestrates a team of specialized AI agents to transform any scientific paper into a complete suite of communication assets. With a single command, MONJEZ converts static text into five dynamic formats:
 
 | 💻 **Code** | 🖼️ **Posters** | 📊 **Slides** | 🎥 **Videos** | 🎙️ **Podcasts** |
 |:---:|:---:|:---:|:---:|:---:|
@@ -23,7 +23,7 @@ Scientific breakthroughs are often trapped within the dense, static confines of 
 ---
 
 ## ✨ Meet the Agentic Suite
-SPAS is composed of five expert agents, each a master of its domain, working in a sophisticated pipeline where precision meets creativity.
+MONJEZ is composed of five expert agents, each a master of its domain, working in a sophisticated pipeline where precision meets creativity.
 
 ---
 
@@ -132,7 +132,7 @@ Transforms a dense research paper into a lively, conversational audio podcast.
 ## 🔒 Exclusive Access & Proprietary Rights
 
 > [!IMPORTANT]
-> **SPAS (Scientific Papers Agents Suite)** is a private, proprietary software suite and the exclusive intellectual property of **Mohammad Karim Alzoubi** and **Osama Shakaki**.
+> **MONJEZ (Scientific Papers Agents Suite)** is a private, proprietary software suite and the exclusive intellectual property of **Mohammad Karim Alzoubi** and **Osama Shakaki**.
 
 This repository is a dedicated submission for the **Agentic-thon Hacka-thon**. Access is strictly limited to authorized judges and evaluators. 
 
@@ -144,7 +144,7 @@ This repository is a dedicated submission for the **Agentic-thon Hacka-thon**. A
 ---
 
 ## 💡 Our Vision for Agentic-thon
-SPAS is a statement about the future of agentic AI. We believe autonomous agents should **amplify human creativity**. By automating the friction-filled process of research communication, we empower thinkers to focus on their next big discovery.
+MONJEZ is a statement about the future of agentic AI. We believe autonomous agents should **amplify human creativity**. By automating the friction-filled process of research communication, we empower thinkers to focus on their next big discovery.
 
 ---
 
@@ -160,4 +160,4 @@ SPAS is a statement about the future of agentic AI. We believe autonomous agents
 - **Mohammad Karim Alzoubi**
 - **Osama Shakaki**
 
-**We are proud to present SPAS as our contribution to a future powered by intelligent, collaborative AI agents.**
+**We are proud to present MONJEZ as our contribution to a future powered by intelligent, collaborative AI agents.**
