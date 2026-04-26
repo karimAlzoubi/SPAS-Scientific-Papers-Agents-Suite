@@ -3,7 +3,7 @@
 # 🚀 MONJEZ: Scientific Papers Agents Suite
 ### From Text to Triumph: An Autonomous Multi-Agent Pipeline for Research Communication
 
-**A Submission for the[Agentic-thon](https://Agenticthon.com/) Hacka-thon**
+**A Submission for the [Agentic-thon](https://Agenticthon.com/) Hacka-thon**
 <br>
 by **Mohammad Karim Alzoubi** & **Osama Shakaki**
 
